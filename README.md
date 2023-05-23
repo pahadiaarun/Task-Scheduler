@@ -2,8 +2,8 @@
 
 | Version 1     | Snapshots       | |
 | -------------- | -------------- |-------------- |
-| ![App screenshot](./public/Screenshots/React%20Project%20Traversy%202.jpg) | ![App screenshot](./public/Screenshots/React%20Project%20Traversy%203.jpg) | ![App screenshot](./public/Screenshots/React%20Project%20Traversy%204.jpg) | 
-| ![App screenshot](./public/Screenshots/React%20Project%20Traversy%205.jpg) | ![App screenshot](./public/Screenshots/React%20Project%20Traversy%209.jpg) | ![App screenshot](./public/Screenshots/React%20Project%20Traversy%208.jpg) |
+| ![App screenshot](./public/ss/1.jpg) | ![App screenshot](./public/ss/2.jpg) | ![App screenshot](./public/ss/3.jpg) | 
+| ![App screenshot](./public/ss/4.jpg) | ![App screenshot](./public/ss/5.jpg) | ![App screenshot](./public/ss/6.jpg) |
 
  
  
